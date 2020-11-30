@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # echo and printf are two commands can help in printing.
 # we can use echo command because it's more user friendly, yet supports all the requirements.
@@ -10,6 +10,7 @@ echo hello world
 # print two lines
 echo line1
 echo line2
+
 #print two lines with single echo command
 #this can be done with the help of escape sequences
 
@@ -18,3 +19,5 @@ echo line2
 #\e - new colour
 
 echo -e "Line11\nLine22"
+
+echo -e "New\t\t\tWorld"
