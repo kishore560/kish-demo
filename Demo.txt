@@ -1,6 +1,0 @@
-echo hello world
-echo line1
-echo line2
-echo -e "Line11\nLine22"
-
-echo -e "New\t\t\tWorld"
